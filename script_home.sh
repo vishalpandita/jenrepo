@@ -24,4 +24,4 @@ fi
 
 git commit -m "Automated Jenkins commit"
 
-git push -q -u origin master
+git push -q -u origin main
